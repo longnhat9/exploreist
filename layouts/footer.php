@@ -1,4 +1,4 @@
-<footer class="section-footer footer-1 parallax">
+<footer class="section-footer footer-1 parallax" style="margin-top: 250px;">
     <div class="footer-wrapper position-relative py-40 py-lg-60 py-xl-100">
         <div class="container">
             <div class="footer-top-contents pb-lg-30">

@@ -16,9 +16,8 @@
 
 </head>
 
-
 <body>
-    <div class="page">
+    <div class="page" style="margin-bottom: 100px;">
         <?php
         include("./layouts/header.php");
         if ($_GET['id'] && isset($_GET['id'])) {

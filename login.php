@@ -87,5 +87,18 @@
         <?php
         require('./layouts/footer.php');
         ?>
+        <script src="./public/js/jquery-3.7.0.min.js"></script>	
+        <script src="./public/js/bootstrap.bundle.min.js"></script>	
+        <script src="./public/js/swiper-bundle.min.js"></script>	
+        <script src="./public/js/wow.js"></script>	
+        <script src="./public/js/venobox.min.js"></script>
+        <script src="./public/js/odometer.min.js"></script>
+        <script src="./public/js/owl.carousel.min.js"></script>
+        <script src="./public/js/gsap/gsap.min.js"></script>
+        <script src="./public/js/gsap/SplitText.min.js"></script>
+        <script src="./public/js/gsap/ScrollTrigger.min.js"></script>
+        <script src="./public/js/gsap/split-type-0.3.3.min.js"></script>
+        <script src="./public/js/lazy.image.js"></script>	
+        <script src="./public/js/script.js"></script>
     </div>
 </body>
